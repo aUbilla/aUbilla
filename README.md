@@ -1,10 +1,15 @@
 <h2 align="center">&lt;Hello World 👋 /&gt;</h2>
 
-I'm Andrés Ubilla. A Web/App Developer, chocolate fan!. **currently doing a development bootcamp in Ruby on Rails with BrightCoders Academy**.
+I'm Andrés Ubilla. A Web/App Developer, chocolate fan!.<br />
+
+**currently doing a development bootcamp in Ruby on Rails with BrightCoders Academy**.
 
 - 🔭 I’m currently working on garantiAPP :: **Ruby on Rails project**.
 
 <h2 align="center">My skills </h2>
+
+https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white
+
 
 <p>
   <a href="mailto:andres.ubilla@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>

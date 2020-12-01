@@ -4,7 +4,10 @@ I'm Andrés Ubilla. A Web/App Developer, chocolate fan!.
 
 - 🔭 I’m currently working on garantiAPP :: **Ruby on Rails project**.
 
-<p><img src="https://img.shields.io/badge/Email-andres.ubilla%40gmail.com-red" height=25> <a href="https://www.linkedin.com/in/andresubilla/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/andresubilla_photoweddings/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<p>
+  <a href="mailto:andres.ubilla@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/andresubilla/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="https://www.instagram.com/andresubilla_photoweddings/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </p>
 
 <!--

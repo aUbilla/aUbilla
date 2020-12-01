@@ -1,4 +1,4 @@
-<h2 align="center"><Hello World 👋 /></h2>
+<h2 align="center"><code><Hello World 👋 /></code></h2>
 
 I'm Andrés Ubilla. A Web/App Developer, chocolate fan!. **currently doing a development bootcamp in Ruby on Rails with BrightCoders Academy**.
 

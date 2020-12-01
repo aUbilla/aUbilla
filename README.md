@@ -8,7 +8,7 @@ I'm Andrés Ubilla. A Web/App Developer, chocolate fan!.<br />
 
 <h2 align="center">My skills </h2>
 
-<img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white height=20>
+<img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" height=20 />
 
 
 <p>

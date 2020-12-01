@@ -6,7 +6,7 @@ I'm Andrés Ubilla. A Web/App Developer, chocolate fan!.<br />
 
 - 🔭 I’m currently working on garantiAPP :: **Ruby on Rails project**.
 
-<h2 align="center">My skills </h2>
+<h2 align="center">My skills ⚡</h2>
 
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=20 /> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=20 />
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black" height=20 />
@@ -22,7 +22,7 @@ I'm Andrés Ubilla. A Web/App Developer, chocolate fan!.<br />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height=20 />
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height=20 />
 
-<h2 align="center">Contact me </h2>
+<h2 align="center">Contact me 💬</h2>
 
 <p>
   <a href="mailto:andres.ubilla@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>

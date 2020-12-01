@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on garantiAPP :: **Ruby on Rails project**.
 
-<p><a href="https://www.linkedin.com/in/andresubilla/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/andresubilla_photoweddings/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<p><a href="https://www.linkedin.com/in/andresubilla/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>. <a href="https://www.linkedin.com/in/andresubilla/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/andresubilla_photoweddings/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </p>
 
 <!--

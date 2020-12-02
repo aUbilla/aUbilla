@@ -1,6 +1,6 @@
-<h2 align="center">&lt;Hello World 👋 /&gt;</h2>
+<h1 align="center">&lt;Hello World 👋 /&gt;</h1>
 
-I'm Andrés Ubilla. A Web/App Developer, chocolate fan!.<br />
+<h2 align="center">I'm Andrés Ubilla. A Web/App Developer, chocolate fan!.</h2>
 
 **currently doing a development bootcamp in Ruby on Rails with BrightCoders Academy**.
 

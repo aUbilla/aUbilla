@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on garantiAPP :: **Ruby on Rails project**.
 
-<img src="https://github.com/aUbilla/aUbilla/blob/main/keepcalm.png" height=100 />
+<img align="center" src="https://github.com/aUbilla/aUbilla/blob/main/keepcalm.png" height=300 />
 
 <h2 align="center">My skills ⚡</h2>
 

@@ -2,11 +2,11 @@
 
 <h2 align="center">I'm Andrés Ubilla. A Web/App Developer and chocolate fan!.</h2>
 
+<img align="right" src="https://github.com/aUbilla/aUbilla/blob/main/keepcalm.png" height=300 style="text-align:center;float: right;" />
+
 **currently doing a development bootcamp in Ruby on Rails with BrightCoders Academy**.
 
 - 🔭 I’m currently working on garantiAPP :: **Ruby on Rails project**.
-
-<img align="right" src="https://github.com/aUbilla/aUbilla/blob/main/keepcalm.png" height=300 style="text-align:center;float: right;" />
 
 <h2 align="center">My skills ⚡</h2>
 
